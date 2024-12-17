@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/darshan_2999" target="blank"><img src="https://img.shields.io/twitter/follow/darshan_2999?logo=twitter&style=for-the-badge" alt="darshan_2999" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **AWS, DevOps**
 
 - 🌱 I’m currently learning **Spring, Spring Boot, React Native**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/darshanparulekar](github.com/darshanparulekar)
 
-- 💬 Ask me about **Java, Android**
+- 💬 Ask me about **AWS, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
