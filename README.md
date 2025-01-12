@@ -61,6 +61,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanparulekar&show_icons=true&locale=en" alt="darshanparulekar" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darshanparulekar)](https://git.io/streak-stats)
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=darshanparulekar" alt="GitHub Streak" /></a>
 
-</p>
+
