@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanparulekar&label=Profile%20views&color=0e75b6&style=flat" alt="darshanparulekar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/darshan_2999" target="blank"><img src="https://img.shields.io/twitter/follow/darshan_2999?logo=twitter&style=for-the-badge" alt="darshan_2999" /></a> 
+<p align="left"> <a href="https://twitter.com/darshan_2999" target="blank"><img src="https://img.shields.io/twitter/follow/darshan_2999?logo=twitter&style=for-the-badge" alt="darshan_2999" /></a>  </p>
 
-<a href="https://www.leetcode.com/parulekardarshan29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parulekardarshan29" height="30" width="40" /></a> </p>
+
 
 - 🔭 I’m currently working on **AWS, DevOps**
 
@@ -29,6 +29,7 @@
 <a href="https://twitter.com/darshan_2999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan_2999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshan-parulekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-parulekar" height="30" width="40" /></a>
 <a href="https://instagram.com/darshan_parulekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_parulekar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/parulekardarshan29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parulekardarshan29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
