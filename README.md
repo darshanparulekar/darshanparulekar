@@ -58,7 +58,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshanparulekar&show_icons=true&locale=en" alt="darshanparulekar" /></p>
 
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanparulekar&" alt="darshanparulekar" /></p>
 
+
+</p>
