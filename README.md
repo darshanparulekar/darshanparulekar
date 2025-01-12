@@ -60,5 +60,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanparulekar&" alt="darshanparulekar" /></p>
 
-
 </p>
